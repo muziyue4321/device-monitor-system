@@ -1,0 +1,12 @@
+# 编译产物
+*.o
+server
+client
+query
+# sqlite数据库运行生成文件，不要上传
+device.db
+device.db-journal
+# 临时文件
+*~
+*.swp
+.vscode/
